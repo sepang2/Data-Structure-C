@@ -17,10 +17,10 @@
 - ### 이진 탐색(Binary Search) 알고리즘
 
 - ### 빅-오 표기법(Big-O notation)
-  - _O(1)_
-  - _O($log~n$)_
-  - _O($n$)_
-  - _O($nlog~n$)_
-  - _O($n^2$)_
-  - _O($n^3$)_
-  - _O($2^n$)_
+  - O(1)
+  - O(log n)
+  - O(n)
+  - O(nlog n)
+  - O(n<sup>2</sup>)
+  - O(n<sup>3</sup>)
+  - O(2<sup>n</sup>)
